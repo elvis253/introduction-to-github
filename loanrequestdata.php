@@ -22,6 +22,7 @@
 
 		}
 		// revew this code
+		// iwanted a muliline comment
 
 		$servername="localhost";
 		$username="elvis";
