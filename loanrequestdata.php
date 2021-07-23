@@ -21,6 +21,7 @@
 			exit();
 
 		}
+		// revew this code
 
 		$servername="localhost";
 		$username="elvis";
